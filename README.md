@@ -1,2 +1,6 @@
 # zphisher
-automatic fishing tool
+
+
+
+
+# HOW TO INSTALL ZPHISHER
