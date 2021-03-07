@@ -21,27 +21,11 @@ Ngrok (With or without hotspot)
 
 # HOW TO INSTALL ZPHISHER
 
-apt update
+* `apt update`
+* ` apt upgrade`
+* `pkg install git curl wget php`
+* `git clone https://github.com/NIHALHACKER/zphisher`
+* `cd zphisher`
+* `bash zphisher`
 
-
-
-apt upgrade
-
-
-
-pkg install git curl wget php -y
-
-
-
-
-git clone https://github.com/NIHALHACKER/zphisher.git
-
-
-
-
-cd zphisher
-
-
-
-
-bash zphisher.sh
+# NIHALHACKER✓
