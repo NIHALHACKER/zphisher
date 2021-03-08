@@ -1,20 +1,20 @@
-# zphisher
 
-TERMUX ONLY INSTALL
 
-Features
 
-Latest and updated login pages.
 
-Mask URL support
+# Features
 
-Beginners friendly
+* Latest and updated login pages.
 
-Multiple tunneling options
+* Mask URL support
 
-Localhost
+* Beginners friendly
 
-Ngrok (With or without hotspot)
+* Multiple tunneling options
+
+* Localhost
+
+* Ngrok (With or without hotspot)
 
 
 
