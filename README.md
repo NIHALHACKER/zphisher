@@ -28,4 +28,8 @@
 * `cd zphisher`
 * `bash zphisher.sh`
 
-# NIHALHACKER✓
+# SCREENSHOT
+
+
+![IMG_20210310_053500_657](https://user-images.githubusercontent.com/76738683/110555393-8995b500-8162-11eb-9c4a-3a84a1188e24.JPG)
+
